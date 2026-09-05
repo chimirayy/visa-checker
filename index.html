@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Visa, passport and transit requirement checker for air travel.">
+  <title>VisaCheck</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="./"><span class="brand-mark">V</span><span>VisaCheck</span></a>
+  <nav>
+    <a href="#checker">Check</a>
+    <a href="#about">About</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <span class="eyebrow">AIR TRAVEL DOCUMENT CHECKER</span>
+    <h1>Know what you need<br>before you fly.</h1>
+    <p>Check entry, passport validity, supporting documents and transit requirements in one place.</p>
+  </section>
+
+  <section class="checker card" id="checker">
+    <div class="two-col">
+      <label>
+        Passport nationality
+        <select id="nationality"></select>
+      </label>
+      <label>
+        Final destination
+        <select id="destination"></select>
+      </label>
+    </div>
+
+    <div class="toggle-block">
+      <div>
+        <strong>Are you transiting through another country?</strong>
+        <small>Choose yes to check transit separately from destination entry.</small>
+      </div>
+      <div class="segmented">
+        <button type="button" class="active" data-transit="no">No</button>
+        <button type="button" data-transit="yes">Yes</button>
+      </div>
+    </div>
+
+    <div id="transitPanel" class="transit-panel hidden">
+      <div class="two-col">
+        <label>
+          Transit country
+          <select id="transitCountry"></select>
+        </label>
+        <label>
+          Transit airport
+          <input id="transitAirport" placeholder="e.g. Singapore Changi (SIN)">
+        </label>
+      </div>
+      <div class="three-col">
+        <label>Remain airside?
+          <select id="airside"><option value="yes">Yes</option><option value="no">No</option></select>
+        </label>
+        <label>Change airports?
+          <select id="airportChange"><option value="no">No</option><option value="yes">Yes</option></select>
+        </label>
+        <label>Collect / re-check baggage?
+          <select id="baggage"><option value="no">No</option><option value="yes">Yes</option></select>
+        </label>
+      </div>
+    </div>
+
+    <button id="checkBtn" class="primary">Check requirements <span>→</span></button>
+    <p class="fine-print">Ordinary passports • Air travel only • Always verify current rules before departure</p>
+  </section>
+
+  <section id="results" class="results hidden" aria-live="polite"></section>
+
+  <section class="info-strip" id="about">
+    <div>
+      <span class="eyebrow">ABOUT</span>
+      <h2>Simple, transparent results.</h2>
+    </div>
+    <p>
+      VisaCheck separates visa status, passport validity, accepted travel documents,
+      supporting documents and transit conditions so travellers can see exactly what needs attention.
+    </p>
+  </section>
+</main>
+
+<footer>
+  VisaCheck • GitHub Pages-ready static site • Starter dataset must be verified before production use
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+[
+  {
+    "code": "DE",
+    "name": "Germany"
+  },
+  {
+    "code": "FR",
+    "name": "France"
+  },
+  {
+    "code": "IT",
+    "name": "Italy"
+  },
+  {
+    "code": "ES",
+    "name": "Spain"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium"
+  },
+  {
+    "code": "AT",
+    "name": "Austria"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden"
+  },
+  {
+    "code": "NO",
+    "name": "Norway"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark"
+  },
+  {
+    "code": "FI",
+    "name": "Finland"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal"
+  },
+  {
+    "code": "PL",
+    "name": "Poland"
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia"
+  },
+  {
+    "code": "GR",
+    "name": "Greece"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom"
+  },
+  {
+    "code": "US",
+    "name": "United States"
+  },
+  {
+    "code": "CA",
+    "name": "Canada"
+  },
+  {
+    "code": "AU",
+    "name": "Australia"
+  },
+  {
+    "code": "JP",
+    "name": "Japan"
+  },
+  {
+    "code": "CN",
+    "name": "China"
+  },
+  {
+    "code": "IN",
+    "name": "India"
+  }
+]

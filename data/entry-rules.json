@@ -1,0 +1,1636 @@
+[
+  {
+    "nationality": "US",
+    "destination": "FR",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "FR",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "FR",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CN",
+    "destination": "FR",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "DE",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "DE",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "DE",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CN",
+    "destination": "DE",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "IT",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "IT",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "IT",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CN",
+    "destination": "IT",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "ES",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "ES",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "ES",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CN",
+    "destination": "ES",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "NL",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "NL",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "NL",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CN",
+    "destination": "NL",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "CH",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "CH",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free short stay",
+      "maximum_stay_days": 90
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "CH",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CN",
+    "destination": "CH",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is destination-rule specific; verify current Schengen requirement.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "GB",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "eta",
+      "label": "Electronic travel authorisation / entry permission may be required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must be valid for the duration required by UK rules; verify before travel.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CA",
+    "destination": "GB",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "eta",
+      "label": "Electronic travel authorisation / entry permission may be required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must be valid for the duration required by UK rules; verify before travel.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "GB",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must meet UK validity requirements; verify before travel.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CN",
+    "destination": "GB",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must meet UK validity requirements; verify before travel.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "JP",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free / short stay subject to conditions",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must be valid for the period required by Japanese immigration rules; verify before travel.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "JP",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free / short stay subject to conditions",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must be valid for the period required by Japanese immigration rules; verify before travel.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "JP",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "conditional",
+      "label": "Visa required / conditional depending on current programme",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is subject to Japanese immigration rules; verify before travel.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "CN",
+    "destination": "JP",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "conditional",
+      "label": "Visa required / conditional depending on current programme",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity is subject to Japanese immigration rules; verify before travel.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "SG",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free / short stay subject to conditions",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity requirement applies; verify exact current minimum.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "SG",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_free",
+      "label": "Visa-free / short stay subject to conditions",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity requirement applies; verify exact current minimum.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "SG",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "conditional",
+      "label": "Visa required / conditional depending on traveller circumstances",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport validity requirement applies; verify exact current minimum.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "US",
+    "destination": "AU",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "authorization",
+      "label": "Electronic travel authority / visa required before travel",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must be valid and accepted for the travel period; verify current Australian rule.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "GB",
+    "destination": "AU",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "authorization",
+      "label": "Electronic travel authority / visa required before travel",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must be valid and accepted for the travel period; verify current Australian rule.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  },
+  {
+    "nationality": "IN",
+    "destination": "AU",
+    "travel_mode": "air",
+    "purpose": "tourism",
+    "visa": {
+      "status": "visa_required",
+      "label": "Visa required",
+      "maximum_stay_days": null
+    },
+    "passport": {
+      "required": true,
+      "validity_display": "Passport must meet Australian validity and identity requirements.",
+      "blank_pages": "Check official rule",
+      "accepted_documents": [
+        "Ordinary passport"
+      ]
+    },
+    "documents": [
+      {
+        "label": "Return / onward ticket",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of accommodation",
+        "status": "Conditional"
+      },
+      {
+        "label": "Proof of funds",
+        "status": "Conditional"
+      }
+    ],
+    "conditions": [
+      "Applies to ordinary passports and air travel.",
+      "Residence status, existing visas, purpose of travel and length of stay can change the result."
+    ],
+    "source": {
+      "name": "Official destination immigration authority / airline document checker",
+      "url": "https://www.iata.org/en/services/compliance/timatic/",
+      "last_verified": "2026-09-05",
+      "confidence": "Starter record \u2014 verify before travel"
+    }
+  }
+]

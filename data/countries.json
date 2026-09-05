@@ -1,0 +1,267 @@
+[
+  {
+    "code": "AT",
+    "name": "Austria",
+    "zone": "Schengen"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "zone": "Schengen"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "zone": "Schengen"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "zone": "Schengen"
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "zone": "Schengen"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "zone": "Schengen"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "zone": "Schengen"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "zone": "Schengen"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "zone": "Schengen"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "zone": "Schengen"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "zone": "Schengen"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "zone": "Schengen"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "zone": "Schengen"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "zone": "Schengen"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "zone": "Schengen"
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "zone": "Schengen"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "zone": "Schengen"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "zone": "Schengen"
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "zone": "Schengen"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "zone": "Schengen"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "zone": "Schengen"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "zone": "Schengen"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "zone": "Schengen"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "zone": "Schengen"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "zone": "Schengen"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "zone": "Schengen"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "zone": "Schengen"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "zone": "Schengen"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "zone": "Schengen"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "zone": "Ireland"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "zone": "United Kingdom"
+  },
+  {
+    "code": "XK",
+    "name": "Kosovo",
+    "zone": "Kosovo"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "zone": "Saudi Arabia"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "zone": "Tunisia"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "zone": "Vietnam"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "zone": "Thailand"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "zone": "South Korea"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "zone": "Japan"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "zone": "Singapore"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "zone": "China"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "zone": "Australia"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "zone": "South America"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "zone": "South America"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "zone": "South America"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "zone": "South America"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "zone": "South America"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "zone": "South America"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "zone": "South America"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "zone": "South America"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "zone": "South America"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "zone": "South America"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "zone": "South America"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "zone": "South America"
+  }
+]
