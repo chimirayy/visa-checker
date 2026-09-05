@@ -21,7 +21,15 @@ function setupPicker(searchId, hiddenId, menuId){
       return c.name.toLowerCase().includes(q) ||
              c.code.toLowerCase().startsWith(q) ||
              (c.alpha3||"").toLowerCase().startsWith(q);
-    }).slice(0,60);
+    }).sort((a,b)=>{
+      const aq=a.code.toLowerCase()===q || (a.alpha3||"").toLowerCase()===q;
+      const bq=b.code.toLowerCase()===q || (b.alpha3||"").toLowerCase()===q;
+      if(aq!==bq) return aq ? -1 : 1;
+      const an=a.name.toLowerCase().startsWith(q);
+      const bn=b.name.toLowerCase().startsWith(q);
+      if(an!==bn) return an ? -1 : 1;
+      return a.name.localeCompare(b.name);
+    }).slice(0,80);
     active=-1;
     menu.innerHTML=shown.length?shown.map((c,i)=>`
       <button type="button" class="country-option" data-i="${i}">
@@ -116,7 +124,7 @@ function schengenRule(n,d){
 function ukRule(n){
   const u=systems.uk;
   if(n==="GB")return make("No visa or ETA required","visa_free","British citizen/right-of-abode rules apply.",true,"Valid British passport or other accepted evidence of right of abode.",["British passport"],[["Visa","Not required"],["ETA","Not required"]],["Carrier documentation rules still apply."],u.source_entry);
-  if(n==="IE")return make("No visa or ETA required — Common Travel Area","visa_free","Common Travel Area rights apply.",false,"Valid identity evidence should be carried; airlines may require a passport.",["Irish passport","Other accepted proof where applicable"]],[["Visa","Not required"],["ETA","Not required"]],["Airlines may require a passport even where immigration law allows another identity document."],u.source_entry);
+  if(n==="IE")return make("No visa or ETA required — Common Travel Area","visa_free","Common Travel Area rights apply.",false,"Valid identity evidence should be carried; airlines may require a passport.",["Irish passport","Other accepted proof where applicable"],[["Visa","Not required"],["ETA","Not required"]],["Airlines may require a passport even where immigration law allows another identity document."],u.source_entry);
   if(has(u.eta_eligible,n))return make("ETA required before travel","eta","Standard visitor trips are normally up to 6 months.",true,"Use the same valid passport linked to the ETA.",["Ordinary passport linked to ETA"],[["UK ETA","Required unless exempt"],["Visa","Not normally required for ETA-eligible standard visitor"],["Funds / purpose","May be assessed"]],["ETA is permission to travel, not a guarantee of admission.","Existing UK immigration status can remove the ETA requirement."],u.source_entry);
   if(has(u.visa_nationals,n))return make("UK visitor visa required","visa_required","Usually up to 6 months subject to visa granted.",true,"Valid passport or recognised travel document required.",["Valid passport / recognised travel document"],[["Visitor visa","Required before travel"],["Proof of purpose","Assessed"],["Proof of funds","Assessed"]],["Ordinary passport and visitor purpose assumed."],u.source_entry);
   return make("Check UK permission","conditional","Depends on status.",true,"Valid recognised travel document required.",["Recognised travel document"],[["Visa / ETA","Check official UK service"]],["Passport/status-specific rules apply."],u.source_entry);

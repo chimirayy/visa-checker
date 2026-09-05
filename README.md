@@ -121,3 +121,9 @@ Static curated modules now cover the project's priority destinations:
 - South America (shared short-stay module with Brazil eVisa handling for selected passports)
 
 The worldwide catalogue still contains 250 countries/territories. Destinations outside the curated modules intentionally display an official-source fallback rather than guessed visa advice.
+
+## Search bug fix
+
+The previous searchable build contained a JavaScript syntax error in the UK/Ireland rule section.
+That error prevented `app.js` from executing, which meant the country search menus never initialized.
+This build corrects that syntax error and has been repackaged after syntax validation.
