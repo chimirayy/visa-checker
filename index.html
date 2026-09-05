@@ -20,18 +20,26 @@
   <section class="hero">
     <span class="eyebrow">AIR TRAVEL DOCUMENT CHECKER</span>
     <h1>Know what you need<br>before you fly.</h1>
-    <p>Check entry, passport validity, supporting documents and transit requirements across the worldwide country catalogue.</p>
+    <p>Start typing any country name or code. Matching nationalities and destinations appear instantly.</p>
   </section>
 
   <section class="checker card" id="checker">
     <div class="two-col">
       <label>
         Passport nationality
-        <select id="nationality"></select>
+        <div class="country-picker" data-picker="nationality">
+          <input id="nationalitySearch" autocomplete="off" placeholder="Type country name or code…" aria-label="Passport nationality">
+          <input type="hidden" id="nationality">
+          <div class="country-menu hidden" id="nationalityMenu"></div>
+        </div>
       </label>
       <label>
         Final destination
-        <select id="destination"></select>
+        <div class="country-picker" data-picker="destination">
+          <input id="destinationSearch" autocomplete="off" placeholder="Type country name or code…" aria-label="Final destination">
+          <input type="hidden" id="destination">
+          <div class="country-menu hidden" id="destinationMenu"></div>
+        </div>
       </label>
     </div>
 
@@ -50,7 +58,11 @@
       <div class="two-col">
         <label>
           Transit country
-          <select id="transitCountry"></select>
+          <div class="country-picker" data-picker="transit">
+            <input id="transitCountrySearch" autocomplete="off" placeholder="Type country name or code…" aria-label="Transit country">
+            <input type="hidden" id="transitCountry">
+            <div class="country-menu hidden" id="transitCountryMenu"></div>
+          </div>
         </label>
         <label>
           Transit airport

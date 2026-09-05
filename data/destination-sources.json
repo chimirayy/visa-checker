@@ -46,5 +46,37 @@
   "XK": {
     "name": "Kosovo Ministry of Foreign Affairs and Diaspora",
     "url": "https://mfa-ks.net/"
+  },
+  "US": {
+    "name": "U.S. Department of State / CBP",
+    "url": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html"
+  },
+  "CA": {
+    "name": "Government of Canada — entry requirements",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html"
+  },
+  "BR": {
+    "name": "Brazil Ministry of Foreign Affairs / eVisa guidance",
+    "url": "https://www.gov.br/mre/en"
+  },
+  "AR": {
+    "name": "Argentina immigration authority",
+    "url": "https://www.argentina.gob.ar/interior/migraciones"
+  },
+  "CL": {
+    "name": "Chile consular services",
+    "url": "https://serviciosconsulares.cl/"
+  },
+  "CO": {
+    "name": "Colombia Ministry of Foreign Affairs",
+    "url": "https://www.cancilleria.gov.co/"
+  },
+  "PE": {
+    "name": "Peru immigration authority",
+    "url": "https://www.gob.pe/migraciones"
+  },
+  "UY": {
+    "name": "Uruguay Ministry of Foreign Affairs",
+    "url": "https://www.gub.uy/ministerio-relaciones-exteriores/"
   }
 }

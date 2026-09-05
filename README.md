@@ -89,3 +89,35 @@ Before the first workflow run:
 3. Under **Build and deployment**, set **Source** to **GitHub Actions**.
 4. Go to **Actions** and run or re-run **Deploy VisaCheck to GitHub Pages**.
 
+
+## Searchable country picker
+
+The nationality, destination, and transit-country fields are now searchable comboboxes.
+
+Examples:
+- type `ger` → Germany appears
+- type `uni` → United Kingdom, United States, etc.
+- type `IN` → India and matching country codes
+- use arrow keys + Enter, or click a result
+
+## Expanded rule modules
+
+Static curated modules now cover the project's priority destinations:
+- Schengen area
+- United Kingdom
+- United States
+- Canada
+- Ireland
+- Australia
+- Japan
+- South Korea
+- Singapore
+- Saudi Arabia
+- China
+- Thailand
+- Vietnam
+- Kosovo
+- Tunisia
+- South America (shared short-stay module with Brazil eVisa handling for selected passports)
+
+The worldwide catalogue still contains 250 countries/territories. Destinations outside the curated modules intentionally display an official-source fallback rather than guessed visa advice.
