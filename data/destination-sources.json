@@ -1,0 +1,50 @@
+{
+  "GB": {
+    "name": "GOV.UK — Visas and immigration",
+    "url": "https://www.gov.uk/browse/visas-immigration"
+  },
+  "IE": {
+    "name": "Irish Immigration Service",
+    "url": "https://www.irishimmigration.ie/"
+  },
+  "SA": {
+    "name": "Saudi eVisa / Visit Saudi",
+    "url": "https://visa.visitsaudi.com/"
+  },
+  "AU": {
+    "name": "Australian Department of Home Affairs",
+    "url": "https://immi.homeaffairs.gov.au/"
+  },
+  "JP": {
+    "name": "Ministry of Foreign Affairs of Japan — Visas",
+    "url": "https://www.mofa.go.jp/j_info/visit/visa/index.html"
+  },
+  "KR": {
+    "name": "Korea Visa Portal",
+    "url": "https://www.visa.go.kr/"
+  },
+  "SG": {
+    "name": "Singapore Immigration & Checkpoints Authority",
+    "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore"
+  },
+  "CN": {
+    "name": "Chinese Visa Application Service / MFA guidance",
+    "url": "https://www.visaforchina.cn/"
+  },
+  "TH": {
+    "name": "Thai e-Visa",
+    "url": "https://www.thaievisa.go.th/"
+  },
+  "VN": {
+    "name": "Vietnam Immigration eVisa portal",
+    "url": "https://evisa.gov.vn/"
+  },
+  "TN": {
+    "name": "Tunisia Ministry / consular guidance",
+    "url": "https://www.diplomatie.gov.tn/"
+  },
+  "XK": {
+    "name": "Kosovo Ministry of Foreign Affairs and Diaspora",
+    "url": "https://mfa-ks.net/"
+  }
+}
